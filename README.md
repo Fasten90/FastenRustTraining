@@ -24,3 +24,11 @@
 `cargo --version`
 
 
+### Training
+
+#### hello-rust
+Directory: hello-rust
+Description: https://www.rust-lang.org/learn/get-started
+
+* cargo new hello-rust
+
