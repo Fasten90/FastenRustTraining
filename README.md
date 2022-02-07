@@ -32,3 +32,7 @@ Description: https://www.rust-lang.org/learn/get-started
 
 * cargo new hello-rust
 
+
+https://doc.rust-lang.org/stable/rust-by-example/primitives.html
+
+
