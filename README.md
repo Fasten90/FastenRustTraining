@@ -36,3 +36,8 @@ Description: https://www.rust-lang.org/learn/get-started
 https://doc.rust-lang.org/stable/rust-by-example/primitives.html
 
 
+## Rust on Raspberry Pi Pico
+* https://github.com/rp-rs/rp-hal
+* https://www.youtube.com/watch?v=Yi0WRF5WPFw
+* https://github.com/rp-rs/rp-hal
+
