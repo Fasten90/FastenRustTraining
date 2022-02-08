@@ -39,6 +39,7 @@ https://doc.rust-lang.org/stable/rust-by-example/primitives.html
 ## Rust on Raspberry Pi Pico
 * https://github.com/rp-rs/rp-hal
 * https://www.youtube.com/watch?v=Yi0WRF5WPFw
+* https://docs.rs/crate/elf2uf2-rs/latest
 
 # Test
 * git clone https://github.com/rp-rs/rp-hal
