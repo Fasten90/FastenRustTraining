@@ -39,5 +39,12 @@ https://doc.rust-lang.org/stable/rust-by-example/primitives.html
 ## Rust on Raspberry Pi Pico
 * https://github.com/rp-rs/rp-hal
 * https://www.youtube.com/watch?v=Yi0WRF5WPFw
-* https://github.com/rp-rs/rp-hal
+
+# Test
+* git clone https://github.com/rp-rs/rp-hal
+* Need for building (Raspberry Pico HAL / driver)
+  * rustup target add thumbv6m-none-eabi
+* Need for downloading the binary to the target
+  * cargo install elf2uf2-rs
+* Execute build-rp-hal-blinky.sh
 
