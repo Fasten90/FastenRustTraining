@@ -6,6 +6,7 @@
 pool:
   vmImage: ubuntu-latest
 
+steps:
 - script: |
     sudo apt update
 
@@ -18,4 +19,3 @@ pool:
     cargo build
     cargo run
     cargo doc
-  displayName: 'Run a multi-line script'
