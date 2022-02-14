@@ -10,7 +10,7 @@ steps:
 - script: |
     sudo apt update
 
-    curl https://sh.rustup.rs -sSf | sh
+    curl https://sh.rustup.rs -sSf -y | sh
 
     source $HOME/.cargo/env
 
